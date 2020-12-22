@@ -1,4 +1,4 @@
-# FunnyOS - very cool OS
+# FunnyOS - very very nice OS
 
 ### Users opininions
 - '🤮' - netsu
